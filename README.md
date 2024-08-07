@@ -1,21 +1,22 @@
 # Tomato Delivery Service
 
-Welcome to **Tomato**, your go-to solution for efficient delivery services!
+Welcome to **Tomato**, a React-based delivery service frontend application designed for seamless and efficient delivery experiences.
 
-## Key Features
+## Features
 
-- **User-Friendly Interface**: Easy navigation and intuitive design.
-- **Real-Time Tracking**: Monitor your deliveries as they happen.
-- **Secure Payment Options**: Multiple payment methods for secure transactions.
-- **Order History**: Manage and view past orders effortlessly.
+- **Intuitive User Interface**: Built with React to provide a smooth and responsive user experience.
+- **Order Management**: Allows users to place and track orders easily.
+- **Real-Time Updates**: Provides real-time updates on order status.
+- **Secure Login and Registration**: User authentication and account management.
 
-## Quick Start
+## Getting Started
 
-1. **Sign Up**: Create a new account or log in.
-2. **Place an Order**: Browse options and place your order.
-3. **Track Your Order**: Use the tracking feature to follow your delivery.
-4. **Payment**: Complete your payment securely.
+To get started with the Tomato frontend application, follow these instructions:
 
+### Prerequisites
+
+- **Node.js** (v14 or higher) - Download from [nodejs.org](https://nodejs.org/)
+- **npm** (comes with Node.js) or **yarn** - Package managers for JavaScript.
 ## Video Demo
 
 ## License
