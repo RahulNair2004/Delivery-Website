@@ -17,6 +17,31 @@ To get started with the Tomato frontend application, follow these instructions:
 
 - **Node.js** (v14 or higher) - Download from [nodejs.org](https://nodejs.org/)
 - **npm** (comes with Node.js) or **yarn** - Package managers for JavaScript.
+
+- ### Installation
+
+1. **Clone the Repository**:
+
+   ```bash
+   git clone https://github.com/yourusername/tomato-delivery.git
+   
+2. **Navigate to the Project Directory**:
+  ```bash
+    cd my-react-app
+```
+
+3. **Install Dependencies**:
+    Using npm:
+```
+  npm install
+  ```
+  
+4. **Run the Development Server**:
+  Using npm:
+  ```bash
+  npm run dev
+```
+
 ## Video Demo
 
 
